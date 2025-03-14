@@ -64,10 +64,11 @@ This dataset is useful for researchers, journalists, fact-checking initiatives, 
 - Analyzing methods of evidence evaluation and types of sources cited.
 - Developing tools to support automated fact-checking pipelines.
 
-## Attribution and Ethical Considerations
+## Credits and Attribution
 
 - **Ownership and Attribution**: All fact-checks in this dataset remain attributed to their original authors and platforms. Users are encouraged to cite the respective sources when utilizing this data.
-- **No Content Text**: To encourage dataset users to visit the fact-checking platforms, we have opted **not to include the full text of fact-checks** except for our content at Annir.
+- **No Content Text**: To encourage dataset users to visit the fact-checking platforms, we have opted **not to include the full text of fact-checks**, with the exception of content from the Annir Initiative, which is made accessible in the dataset.
+- **Meta Information**: The database primarily capitalizes on metadata and extracted information using pretrained language models to provide researchers with sources of information. There is no intention of violating copyrights in any way.
 - **Data Editing and Deletion Requests**: Fact-check authors or platforms may reach out to request modifications or removal of their data.
 
 ## License
@@ -80,11 +81,12 @@ This dataset is licensed under **CC BY-NC-SA** (Creative Commons Attribution-Non
 
 ## Contact
 
-**Credits:** Individuals who contributed to this work are [Eiad Oumer](eiadoumer14@gmail.com) and [Jehad Oumer](j.oumer@annir.ly).
+For inquiries, each aforementioned platform can be reached via their designated communication channels through their websites.
 
-For questions, requests, or collaboration opportunities with Annir, please contact us at [salam@annir.ly](mailto\:salam@annir.ly).
+Individuals who contributed to curating this dataset are [Eiad Oumer](eiadoumer14@gmail.com) and [Jehad Oumer](j.oumer@annir.ly). They can be reached via email.
+
+For questions, requests, or collaboration opportunities with the Annir Initiative, please contact us at [salam@annir.ly](mailto:salam@annir.ly).
 
 ---
-
 **Note:** The dataset will be periodically updated to reflect new fact-checks and adjustments requested by contributing platforms.
 
