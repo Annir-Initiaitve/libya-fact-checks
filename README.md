@@ -67,7 +67,7 @@ This dataset is useful for researchers, journalists, fact-checking initiatives, 
 ## Attribution and Ethical Considerations
 
 - **Ownership and Attribution**: All fact-checks in this dataset remain attributed to their original authors and platforms. Users are encouraged to cite the respective sources when utilizing this data.
-- **No Content Text**: To encourage dataset users to visit the fact-checking platforms, we have opted **not to include the full text of fact-checks**.
+- **No Content Text**: To encourage dataset users to visit the fact-checking platforms, we have opted **not to include the full text of fact-checks** except for our content at Annir.
 - **Data Editing and Deletion Requests**: Fact-check authors or platforms may reach out to request modifications or removal of their data.
 
 ## License
