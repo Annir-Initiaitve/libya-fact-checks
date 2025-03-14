@@ -14,9 +14,9 @@ The dataset aggregates fact-checks from the following platforms:
 | [Annir](https://annir.ly/) | 298               |
 | [Fatabyyano](https://fatabyyano.net/) | 87               |
 | [Misbar](https://misbar.com/) | 384               |
-| [Nawerny](https://nawerny.ly/) | 418               |
-| [She Checks](https://she-checks.org/) | 143               |
-| [TSC](https://tsc.ly/) | 278               |
+| [Nawerny](https://nawerny.org.ly/) | 418               |
+| [She Checks](https://shechecks.net/) | 143               |
+| [TSC](https://tsc.org.ly/) | 278               |
 
 ## Dataset Structure
 
